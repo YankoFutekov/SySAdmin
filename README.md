@@ -1,0 +1,1 @@
+This is a cross-platform repsonsive administration-type site that i've created using HTML5/CSS3 & Materialize framework. It features preloader for every page,  demo login profile, simple canvas js line chart and a wysiwyg CKEditor hooked up to a fully functional fixed action button with multiple modals. 
