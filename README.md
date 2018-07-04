@@ -1,1 +1,17 @@
-This is a cross-platform repsonsive administration-type site that i've created using HTML5/CSS3 & Materialize framework. It features preloader for every page,  demo login profile, simple canvas js line chart and a wysiwyg CKEditor hooked up to a fully functional fixed action button with multiple modals. 
+# SySAdmin
+This is a multi-page highly interactive website that is cross-platform repsonsive, showcasing the following technologies and some of their features:
+  * HTML5
+  * CSS3
+  * CanvasJS. Line Chart
+  * WYSIWYG CKEditor
+  * Materialize Framework v0.100.2
+    * Sidenav
+    * Preloader
+    * Form Validation
+    * Fixed Action Button + Modals
+
+
+
+
+## Here's a link to the website (Deployed on Heroku)
+[TravelSite](https://my-travel-site1.herokuapp.com/index.html "TravelSite")
