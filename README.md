@@ -1,5 +1,5 @@
 # SySAdmin
-This is a multi-page highly interactive website that is cross-platform repsonsive, showcasing the following technologies and some of their features:
+This is a highly interactive multi-page website that is cross-platform repsonsive, showcasing the following technologies and some of their features:
   * HTML5
   * CSS3
   * CanvasJS. Line Chart
